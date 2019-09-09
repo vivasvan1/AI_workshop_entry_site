@@ -1,4 +1,5 @@
-## Welcome to Hands-on Workshop Machine Learning & Artificial Intellegence
+## IIT Jammu presents Hands-on Workshop Machine Learning & Artificial Intellegence
+
 
 
 
