@@ -27,10 +27,6 @@
 
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
 ### Support or Contact
 
-Having trouble? Feel free to call +91 9825190271 and we’ll help you sort it out.
+Having trouble? Feel free to call +91 9825190271 or email on 2016ucs0005@iitjammu.ac.in and we’ll help you sort it out.
