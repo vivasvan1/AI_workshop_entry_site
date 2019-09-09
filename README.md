@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HANDS-ON Workshop Machine Learning & Artificial Intellegence
 
 You can use the [editor on GitHub](https://github.com/vivasvan1/AI_workshop_entry_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
