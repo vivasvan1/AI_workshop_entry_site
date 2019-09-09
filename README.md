@@ -1,6 +1,15 @@
 ## IIT Jammu presents 
 # Hands-on Workshop on Machine Learning & Artificial Intelligence
 
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 Content:
 
 Day1: Brief Intro to ML
