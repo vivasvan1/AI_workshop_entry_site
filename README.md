@@ -5,7 +5,7 @@
 ### Registration
 
 1.  Go to [Google Classroom](classroom.google.com).
-2.  Register using 45uw5j.
+2.  Course Code: 45uw5j.
 
 
 ### Content
