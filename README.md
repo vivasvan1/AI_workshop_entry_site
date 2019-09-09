@@ -3,8 +3,9 @@
 
 
 ### Registration
-![Link](url)
 
+1.  Go to [Google Classroom](classroom.google.com).
+2.  Register using 45uw5j.
 ### Content
 
 | Day          | Topic          |
