@@ -27,7 +27,11 @@
 | Day14        | Image Segmentation | 
 | Day15        | Recommender System | 
 
+### Dates & Venue
 
+From: 28'th September 2019
+To: 13'th October 2019
+Venue: Will be updated soon.
 
 ### Support or Contact
 
