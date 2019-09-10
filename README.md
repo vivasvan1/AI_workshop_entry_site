@@ -11,28 +11,26 @@
 
 | Day          | Topic          |
 |:-------------|:------------------|
-| Day1         | Brief Intro to ML | 
-| Day2         | Linear Regression Implementation | 
-| Day3         | Using Numpy, Matplotlib      | 
-| Day4         | Basic Neural Networks Understanding |
-| Day5         | Neural Network Architecture design | 
-| Day6         | Image Classification | 
-| Day7         | Convolution Neural Network (CNN) Understanding | 
+| Day1         | Brief Intro to ML and using numpy, matplotlib | 
+| Day2         | Linear Regression |
+| Day3         | Neural Networks |
+| Day4         | Neural Networks #2 |
+| Day5         | CNNs and other Neural Network Architectures | 
+| Day6         | Chutti | 
+| Day7         | Chutti | 
 | Day8         | CNN Implementation | 
-| Day9         | Face Recognition System | 
-| Day10        | Recurrent Neural Network | 
-| Day11        | Sentiment Classification | 
-| Day12        | Object Detection | 
-| Day13        | Chat-Bot | 
-| Day14        | Image Segmentation | 
-| Day15        | Recommender System | 
+| Day9         | Project | 
+| Day10        | Project | 
+| Day11        | Project | 
+| Day12        | Project - mid evaluation | 
+| Day13        | Project | 
+| Day14        | Project | 
+| Day15        | Final evaluation | 
 
 ### Dates & Venue
 
 From: 28'th September 2019
-
 To: 13'th October 2019
-
 Venue: Will be updated soon.
 
 ### Support or Contact
