@@ -11,21 +11,21 @@
 
 | Day          | Topic          |
 |:-------------|:------------------|
-| Day1         | Brief Intro to ML and using numpy, matplotlib | 
-| Day2         | Linear Regression |
-| Day3         | Neural Networks |
-| Day4         | Neural Networks #2 |
-| Day5         | CNNs and other Neural Network Architectures | 
-| Day6         | Chutti | 
-| Day7         | Chutti | 
-| Day8         | CNN Implementation | 
-| Day9         | Project | 
-| Day10        | Project | 
-| Day11        | Project | 
-| Day12        | Project - mid evaluation | 
-| Day13        | Project | 
-| Day14        | Project | 
-| Day15        | Final evaluation | 
+| Day1         | Python basics 1 | 
+| Day2         | Python basics 2 | 
+| Day3         | Python basics 3 |
+| Day4         | Machine Learning ,Deep Learning, AI |
+| Day5         | Linear Regression |
+| Day6         | Chutti |
+| Day7         | Neural Networks |
+| Day8         | Neural Networks #2 |
+| Day9         | CNNs and other Neural Network Architectures | 
+| Day10        | Project1 | 
+| Day11        | Project1 - evalutaion | 
+| Day12        | Project2 |
+| Day13        | Chutti |
+| Day14        | Project2 | 
+| Day15        | Project2 - evaluation | 
 
 ### Dates & Venue
 
